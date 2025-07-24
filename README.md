@@ -1,6 +1,6 @@
 # File Backup Logger
 
-A robust and user-friendly Python application designed to backup files and directories with versioning, log all operations locally, and provide a graphical user interface (GUI) for ease of use. This project fulfills Assignment II, focusing on Object-Oriented Programming (OOP) principles.
+A robust and user-friendly Python application designed to backup files and directories with versioning, log all operations locally, and provide a graphical user interface (GUI) for ease of user.
 
 ## Features
 
@@ -81,3 +81,5 @@ The application features a simple graphical interface.
 * `shutil` module for file operations.
 * `tkinter` for the GUI.
 * `logging` for robust log management.
+
+## MADE BY AROUS WISSEM & MONEGAT LORIS
