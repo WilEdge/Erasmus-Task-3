@@ -1,0 +1,9 @@
+2025-07-24 19:13:08,324 - INFO - BackupManager initialized.
+2025-07-24 19:13:35,414 - INFO - Starting backup of 'C:/Users/arous/Desktop/dorian' to 'C:/Users/arous/Desktop/Sauvegarde\dorian_2025-07-24_19-13-35_v1.0.0.zip' (Compression: True)
+2025-07-24 19:13:35,467 - INFO - ZIP compression successful from 'C:/Users/arous/Desktop/dorian' to 'C:/Users/arous/Desktop/Sauvegarde\dorian_2025-07-24_19-13-35_v1.0.0.zip'
+2025-07-24 19:13:35,468 - INFO - Number of files backed up: 2
+2025-07-24 19:13:35,468 - INFO - Backup completed for 'C:/Users/arous/Desktop/dorian' - Status: SUCCESS - Duration: 0:00:00.053359 - Files: 2
+2025-07-24 19:13:39,635 - INFO - Starting backup of 'C:/Users/arous/Desktop/dorian' to 'C:/Users/arous/Desktop/Sauvegarde\dorian_2025-07-24_19-13-39_v1.0.0.zip' (Compression: True)
+2025-07-24 19:13:39,648 - INFO - ZIP compression successful from 'C:/Users/arous/Desktop/dorian' to 'C:/Users/arous/Desktop/Sauvegarde\dorian_2025-07-24_19-13-39_v1.0.0.zip'
+2025-07-24 19:13:39,649 - INFO - Number of files backed up: 2
+2025-07-24 19:13:39,649 - INFO - Backup completed for 'C:/Users/arous/Desktop/dorian' - Status: SUCCESS - Duration: 0:00:00.003942 - Files: 2

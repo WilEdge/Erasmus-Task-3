@@ -1,0 +1,6 @@
+{
+    "source_folder": "C:/Users/arous/Desktop/dorian",
+    "destination_folder": "C:/Users/arous/Desktop/Sauvegarde",
+    "compress_backup": true,
+    "backup_interval_days": 7
+}
